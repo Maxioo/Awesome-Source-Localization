@@ -13,7 +13,7 @@ A collection of AWESOME things about **Source Localization**.
   - [Contributing](#contributing)
 
 ## Source Localization
-- (*KDD 2022*) Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems [[paper](https://dl.acm.org/doi/10.1145/3534678.3539288)][[code]]([link](https://github.com/triplej0079/SLVAE))
+- (*KDD 2022*) Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems [[paper](https://dl.acm.org/doi/10.1145/3534678.3539288)][[code](https://github.com/triplej0079/SLVAE)]
 
 ## Datasets & Benchmarks
 
